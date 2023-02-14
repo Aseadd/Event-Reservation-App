@@ -1,0 +1,53 @@
+[ {
+	"id": "1",
+	"name": "RGD Design Thinkers",
+	"date": "21 Sep, 2020",
+  "ticketsAvailable": 11,
+  "imageUrl":"https://images.pexels.com/photos/1371360/pexels-photo-1371360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+}, {
+	"id": "2",
+	"name": "What Design Can Do",
+	"date": "21 Sep, 2020",
+  "ticketsAvailable": 26,
+  "imageUrl":"https://images.pexels.com/photos/1371360/pexels-photo-1371360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+}, 
+
+{
+	"id": "3",
+	"name": "Understanding color theory: the color wheel and finding.",
+	"date": "21 Sep, 2020",
+  "ticketsAvailable": 0,
+  "imageUrl":"https://images.pexels.com/photos/1371360/pexels-photo-1371360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+},
+{
+	"id": "4",
+	"name": "Perth UX Camp",
+	"date": "21 Sep, 2020",
+  "ticketsAvailable": 47,
+  "imageUrl":"https://images.pexels.com/photos/1371360/pexels-photo-1371360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+}, {
+	"id": "5",
+	"name": "Sofia Design",
+	"date": "21 Sep, 2020",
+  "ticketsAvailable": 47,
+  "imageUrl":"https://images.pexels.com/photos/1371360/pexels-photo-1371360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+}, {
+	"id": "6",
+	"name": "Design Indaba Conference",
+	"date": "21 Sep, 2020",
+  "ticketsAvailable": 84,
+  "imageUrl":"https://images.pexels.com/photos/1371360/pexels-photo-1371360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+}, {
+	"id": "7",
+	"name": "TYPO Berlin",
+	"date": "21 Sep, 2020",
+  "ticketsAvailable": 4,
+  "imageUrl":"https://images.pexels.com/photos/1371360/pexels-photo-1371360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+},{
+	"id": "8",
+	"name": "AIGA Design Conference",
+	"date": "21 Sep, 2020",
+  "ticketsAvailable": 16,
+  "imageUrl":"https://images.pexels.com/photos/1371360/pexels-photo-1371360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+}
+]
