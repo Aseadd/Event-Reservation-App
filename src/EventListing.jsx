@@ -7,7 +7,7 @@ const EventListing = () => {
     
     return (
         <div>
-        <h1>Event Listing</h1>
+        <h1>Event {events.length}</h1>
         <div className='event-items'>
             {events.map((event) => (
             <div className="event-item">
