@@ -1,12 +1,19 @@
-import logo from './logo.svg';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import './App.css';
 import EventListing from './EventListing';
+import EventBooking from './EventBooking';
+import Nav from './Nav';
 
 function App() {
   return (
     <div className="App">
-      <h1>Event Reservation App</h1>
-      <EventListing />
+     <BrowserRouter>
+      <Nav />
+      <Routes>
+        <Route path="/" element={<EventListing />} />
+        <Route path="/event/:id" element={<EventBooking />} />
+      </Routes>
+     </BrowserRouter>
     </div>
   );
 }
