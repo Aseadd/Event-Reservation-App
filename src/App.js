@@ -1,5 +1,6 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import './App.css';
+import './style/navbar.css';
 import EventListing from './EventListing';
 import EventBooking from './EventBooking';
 import Nav from './Nav';
