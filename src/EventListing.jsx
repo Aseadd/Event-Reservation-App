@@ -17,6 +17,16 @@ const EventListing = () => {
                     <span>{event.date}</span>
                     <span>{event.ticketsAvailable}</span>
                 </div>
+
+                {
+                    event.ticketsAvailable > 0 ? (
+                        <button className="book-btn">Book</button>
+                    ) : (
+                        <button className="book-btn" disabled>Book</button>
+                    )
+                    
+                }
+
             </div>
             ))}
         </div>
