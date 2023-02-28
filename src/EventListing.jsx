@@ -18,6 +18,7 @@ const EventListing = () => {
                     <span>{event.ticketsAvailable}</span>
                 </div>
 
+                <div className="book-icon">
                 {
                     event.ticketsAvailable > 0 ? (
                         <button className="book-btn">Book</button>
@@ -26,6 +27,7 @@ const EventListing = () => {
                     )
                     
                 }
+                </div>
 
             </div>
             ))}
